@@ -1,2 +1,2 @@
 # Python
-A Repository fot my Programms in Python
+A Repository for my Programms in Python
