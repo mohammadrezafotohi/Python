@@ -21,7 +21,7 @@ nomi_entry.grid(row=0,column=2)
 inf_entry.grid(row=1,column=2)
 
 def cal():
-    rpr=int(nomi_entry.get())-int(inf_entry.get())
+    rpr=float(nomi_entry.get())-float(inf_entry.get())
     if rpr>=0:
         rel_label.config(text=rpr)
     else :
